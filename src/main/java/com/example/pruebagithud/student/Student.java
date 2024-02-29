@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class Student {
 
     private String firstname;
-    private String lastname;
+
     private LocalDate data;
 
 
