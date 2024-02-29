@@ -8,7 +8,5 @@ public class Student {
     private String lastname;
     private LocalDate data;
 
-    private String email;
 
-    private int age;
 }
